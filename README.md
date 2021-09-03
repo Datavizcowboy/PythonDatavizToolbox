@@ -2,12 +2,11 @@
 Most common scientific plots on Earth System science, including: 
 - Scatter plot
 - Time series on an XY plot
-- Vertical profile
 - Histogram
 - Cross Section
 - Error Bars
 - Shapes
-- Legens
+- Legends
 - Text on plots
 - Map (pcolor)
 - Map (contour)
