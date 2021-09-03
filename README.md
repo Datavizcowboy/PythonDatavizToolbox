@@ -1,11 +1,15 @@
 # Splendid Python
 Most common scientific plots on Earth System science, including: 
-- Scatter plot
+Scatter plot
 [![alt text][1]][1]
 
 [1]: ./IMAGES/scatter.png
 
-- Time series on an XY plot
+Time series on an XY plot
+[![alt text][1]][1]
+
+[1]: ./IMAGES/XYPlot.png
+
 - Histogram
 - Cross Section
 - Error Bars
