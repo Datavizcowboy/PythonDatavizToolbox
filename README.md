@@ -44,6 +44,11 @@ Dataviz output aim at lightweigth, javascript based libraries, hence a conversio
 * DAT
 
 ## 04 Mapping
+Mapping largely involves representation of either: 
+* Discrete elements
+* Contour plots and areas
+* Binning via hexagons or other polygons
+
 Different techniques are explored to plot the data using a variety of libraries: 
 * D3.js
 * Leaflet
