@@ -1,4 +1,4 @@
-# Pythyon Dataviz Toolbox
+# Python Dataviz Toolbox
 Most common scientific plots on Earth System science, including: 
 Scatter plot. 
 
