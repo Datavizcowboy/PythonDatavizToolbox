@@ -1,0 +1,1 @@
+{"features": [{"geometry": {"coordinates": [[[[-20.2603, 63.15], [-19.0906, 64.0618], [-7.3246, 62.1153], [-8.0347, 60.1607], [-20.2603, 63.15]]]], "type": "MultiPolygon"}, "properties": {"temp": 0, "weather": 0}, "type": "Feature"}], "type": "FeatureCollection"}
