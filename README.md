@@ -47,6 +47,10 @@ Conversion among formats is done via:
 
 [Convert .CSV to .JSON](
 Notebooks/03/Convert_CSV_to_JSON.ipynb).  
+[Convert .CSV to .GeoJSON](
+Notebooks/03/Convert_CSV_to_GeoJSON.ipynb).  
+
+
 
 
 ## 04 Mapping
