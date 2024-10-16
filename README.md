@@ -25,12 +25,12 @@ A quick overview of the data can be done with plots using the Matplotlib library
 
 ## 03 GeoData Formats
 Model output, dataproducts and observational datasets often come in georeferenced data formats, such as: 
-* NetCDF
-* TIFF
-* GeoTIFF
-* GRIB
-* SHP
-* IMG
+* .NetCDF
+* .TIFF
+* .GeoTIFF
+* .GRIB
+* .SHP
+* .IMG
 
 Basic operations can be performed at this stage like: 
 * Masking
@@ -39,9 +39,19 @@ Basic operations can be performed at this stage like:
 Dataviz output aim at lightweigth, javascript based libraries, hence a conversion into other formats is necessary. This includes: 
 * Xarray
 * Geopandas
-* JSON
-* GeoJSON
-* DAT
+* .JSON
+* .GeoJSON
+* .DAT
+
+Conversion among formats is done via:
+
+[Convert .CSV to .JSON](
+Notebooks/03/Convert_CSV_to_JSON.ipynb).  
+[Convert .CSV to .GeoJSON](
+Notebooks/03/Convert_CSV_to_GeoJSON.ipynb).  
+
+
+
 
 ## 04 Mapping
 Mapping largely involves representation of either: 
