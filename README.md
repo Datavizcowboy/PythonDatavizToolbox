@@ -43,7 +43,8 @@ Dataviz output aim at lightweigth, javascript based libraries, hence a conversio
 * .GeoJSON
 * .DAT
 
-Conversion among formats is done via: 
+Conversion among formats is done via:
+
 [Convert .CSV to .JSON](
 Notebooks/03/Convert_CSV_to_JSON.ipynb).  
 
