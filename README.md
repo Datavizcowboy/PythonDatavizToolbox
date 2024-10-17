@@ -31,6 +31,7 @@ Model output, dataproducts and observational datasets often come in georeference
 * .GRIB
 * .SHP
 * .IMG
+* .MAT
 
 Basic operations can be performed at this stage like: 
 * Masking
