@@ -64,6 +64,8 @@ Different techniques are explored to plot the data using a variety of libraries:
 * Leaflet
 * Folium
 * Kepler
+* Bokeh
+* Basemap
   
 ## 05 Web Editing
 Once the data is shown in web-based platforms, some basic web editing is sometimes desirable on: 
