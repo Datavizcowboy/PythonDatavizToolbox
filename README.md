@@ -2,15 +2,14 @@
 
 Useful libraries and scripts to perform reading, postprocessing and data conversion to display georeferenced data in maps. 
 
-## 00 Coding Framework
-In the first module we learn how to install a basic Python interpreter such as Anaconda. 
-
 ## 01 Data Structures
-Basic data structures are explained with simple examples, including: 
-* Array
-* List
-* Dictionary
-* Pandas
+Basic data files operations are explained with simple examples, including: 
+* [JSON to Pandas]( 
+Notebooks/01-Data_Structures/00_JSON_to_Pandas.ipynb). 
+* CSV to Pandas
+* CSV to Parent/Child JSON
+* Pandas Numerical Filtering
+* Pandas Text Filtering
 
 ## 02 Basic Matplotlib Plots
 A quick overview of the data can be done with plots using the Matplotlib library
