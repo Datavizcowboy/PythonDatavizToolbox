@@ -5,7 +5,7 @@ Useful libraries and scripts to perform reading, postprocessing and data convers
 ## 01 Data Structures
 Basic data files operations are explained with simple examples, including: 
 * [JSON to Pandas]( 
-Notebooks/01-Data_Structures/00_JSON_to_Pandas.ipynb). 
+Notebooks/01-Data_Structures/00_JSON_to_PANDAS.ipynb). 
 * CSV to Pandas
 * CSV to Parent/Child JSON
 * Pandas Numerical Filtering
